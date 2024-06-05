@@ -59,6 +59,8 @@ I use the following libraries:
 - [Seaborn](https://seaborn.pydata.org/installing.html) for visualizing data
 - [Matplotlib](https://matplotlib.org/stable/install/index.html) for additional plotting tools
 - [NumPy](https://numpy.org/install/) for mathematical operations
+- SQLAlchemy
+- Pandasql
 
 I. Install libraries
 ```
@@ -68,6 +70,8 @@ I. Install libraries
 !pip install seaborn
 !pip install matplotlib
 !pip install numpy
+!pip instal sqlalchemy
+!pip install pandasql
 ```
 
 
