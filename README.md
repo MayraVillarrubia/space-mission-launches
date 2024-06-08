@@ -28,15 +28,12 @@ In this project, I'm going to explore a dataset with information from varios spa
             <li><a href="#Who-launched-most-mission">Who launched the most missions in any given year?</a></li>
             <li>
                 <a href="#How-has-the-cost-space-mission-varied-over-time?">How has the cost of a space mission varied over time?</a>
-                <ol>
-                    <li><a href="#Exercise-7">Exercise 7</a></li>
-                    <li><a href="#Exercise-8">Exercise 8</a></li>
-                </ol>
             </li>
              <li><a href="#Which-months-are-the-most-popular-for-launches?">Which months are the most popular for launches?</a></li>
              <li><a href="#Have-space-missions-gotten-safer-or-has-the-chance-of-failure remained-unchanged?">Have space missions gotten safer or has the chance of failure remained unchanged?</a></li>
         </ol>
     </li>
+    <li> <a href="#Conclusions"> Conclusions</a></li>
 </ol>
 
 <hr style="border:0.5px solid gray">
@@ -125,4 +122,8 @@ print("Rows x Columns: ", mission.shape)
 4. Have space missions gotten safer or has the chance of failure remained unchanged?
 
 ![](images/plot-safer.png)
+
+#### 6. Conclusion
+
+> _See attached document: **Conclusions_space_missions**_
 
